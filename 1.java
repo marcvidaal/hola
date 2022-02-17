@@ -1,4 +1,4 @@
-//Marc Vidal Ardevol
+//Marc Vidal Ardevo
 import java.util.Scanner;
 
 public class EstructuresSeleccio { // importem scanner
